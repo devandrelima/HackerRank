@@ -1,7 +1,7 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+    "java.project.sourcePaths": [
+        "src/h5_java_output_formatting",
+        "src/h4_java_stdin_and_stdout_II",
+        "src/h6_java_loops_I"
     ]
 }
