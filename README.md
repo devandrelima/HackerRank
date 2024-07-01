@@ -1,5 +1,5 @@
-# READMEs
+# HackerRank
 
-Português: <https://github.com/devandrelima/HackerRank/blob/main/README_portugues.md>
+Here I share the codes I create to solve HackerRank challenges in Java.
 
-English: <https://github.com/devandrelima/HackerRank/blob/main/README_english.md>
+Site: <https://www.hackerrank.com/>
