@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "src/h7_java_loops_II",
+        "src/h6_java_loops_I",
         "src/h5_java_output_formatting",
         "src/h4_java_stdin_and_stdout_II",
-        "src/h6_java_loops_I"
+        "src/h8_java_datatypes"
     ]
 }
